@@ -16,3 +16,5 @@
 #### Turns off the pump if it's HIGH MOISTURE & HUMIDITY.
 #### Activates the pump if moisture is low, temperature is high, or humidity is low.
 #### Uses LCDs and buzzer for visual and audible alerts.
+
+# [LINK](https://www.tinkercad.com/things/2lMztDg3eNG-brave-leelo-rottis?sharecode=wqNorp1Bu-nMGxpkz9FNzmKZe-wM4ExmoNnasDDrErA)
